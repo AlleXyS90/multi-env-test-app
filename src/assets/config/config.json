@@ -1,0 +1,6 @@
+{
+    "production": true,
+    "errorRoute": "error",
+    "country": "ES",
+    "location": "Madrid"
+}
